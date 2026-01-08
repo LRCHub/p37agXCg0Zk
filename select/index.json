@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "MESS",
+  "base_artist": "Hakos Baelz",
+  "createdAt": "2026-01-08T06:31:20.195222Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Look At The Mess I'm In",
+      "artist": "Danielle Bradbery",
+      "has_synced": true,
+      "path": "select/01_Look_At_The_Mess_I'm_In_Danielle_Bradbery.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Memory I Don't Mess With",
+      "artist": "Lee Brice",
+      "has_synced": true,
+      "path": "select/02_Memory_I_Don't_Mess_With_Lee_Brice.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Beautiful Mess",
+      "artist": "Diamond Rio",
+      "has_synced": true,
+      "path": "select/03_Beautiful_Mess_Diamond_Rio.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mess This Up",
+      "artist": "Ryan Robinette",
+      "has_synced": true,
+      "path": "select/04_Mess_This_Up_Ryan_Robinette.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mess with My Head",
+      "artist": "Miranda Lambert",
+      "has_synced": true,
+      "path": "select/05_Mess_with_My_Head_Miranda_Lambert.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mess with My Head (Album)",
+      "artist": "Miranda Lambert",
+      "has_synced": true,
+      "path": "select/06_Mess_with_My_Head_(Album)_Miranda_Lambert.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nashville Mess Around",
+      "artist": "Molly Tuttle",
+      "has_synced": false,
+      "path": "select/07_Nashville_Mess_Around_Molly_Tuttle.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "You Don't Mess Around With Jim",
+      "artist": "Josh Turner",
+      "has_synced": true,
+      "path": "select/08_You_Don't_Mess_Around_With_Jim_Josh_Turner.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "You Don't Mess Around With Jim (Album Version)",
+      "artist": "Josh Turner",
+      "has_synced": true,
+      "path": "select/09_You_Don't_Mess_Around_With_Jim_(Album_Version)_Josh_Turner.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "A Beautiful Mess",
+      "artist": "Jason Mraz",
+      "has_synced": false,
+      "path": "select/10_A_Beautiful_Mess_Jason_Mraz.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mutual Fear (feat. Jon Mess)",
+      "artist": "Eidola feat. Jon Mess",
+      "has_synced": true,
+      "path": "select/11_Mutual_Fear_(feat._Jon_Mess)_Eidola_feat._Jon_Mess.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mutual Fear (feat. Jon Mess)",
+      "artist": "Eidola",
+      "has_synced": true,
+      "path": "select/12_Mutual_Fear_(feat._Jon_Mess)_Eidola.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mess",
+      "artist": "lil wayne",
+      "has_synced": true,
+      "path": "select/13_Mess_lil_wayne.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Mess Inside",
+      "artist": "The Mountain Goats",
+      "has_synced": true,
+      "path": "select/14_The_Mess_Inside_The_Mountain_Goats.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Mess Around",
+      "artist": "The National Lights",
+      "has_synced": false,
+      "path": "select/15_Mess_Around_The_National_Lights.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Don't Mess With Cupid",
+      "artist": "Otis Redding",
+      "has_synced": false,
+      "path": "select/16_Don't_Mess_With_Cupid_Otis_Redding.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Don't Mess Up A Good Thing",
+      "artist": "Ry Cooder",
+      "has_synced": false,
+      "path": "select/17_Don't_Mess_Up_A_Good_Thing_Ry_Cooder.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MESS",
+      "artist": "Hakos Baelz",
+      "has_synced": false,
+      "path": "select/pl_01_MESS_Hakos_Baelz.txt"
+    }
+  ]
+}
